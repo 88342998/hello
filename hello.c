@@ -1,13 +1,15 @@
 /**
+
 John Cerny
 1/16/2020
-Collaborators
-The purpose of the program
+Nathan
+Purpose to collaborate with others
+
 */
 
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("John Cerny Mechanical Engineering\n");
 	return 0;
 }
